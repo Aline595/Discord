@@ -1,46 +1,58 @@
-# Getting Started with Create React App
+![discord](https://user-images.githubusercontent.com/56769013/103671793-29b04180-4f5a-11eb-964d-80bcb7a1e586.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+Discord Clone
+</h1>
+<h3 align="center">
+  <a href="#dog-sobre">Sobre</a>&nbsp;|&nbsp;
+  <a href="#computer-tecnologias">Tecnologias</a>&nbsp;|&nbsp;
+  <a href="#camera-imagens">Imagens</a>&nbsp;|&nbsp;
+  <a href="#fire-como-usar">Como usar</a>&nbsp;|&nbsp;
+  <a href="#versao-online">Versão online</a>&nbsp;
+</h3>
 
-## Available Scripts
+## :dog: Sobre
+Clone da interface do discord que é uma rede social para conversas. 
 
-In the project directory, you can run:
+## Versão online
+https://discord-indol.vercel.app/  
 
-### `yarn start`
+## :computer: Tecnologias
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- React. 
+- Typescript.   
+- Styled Components.  
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## :camera: Imagens
+![image](https://user-images.githubusercontent.com/56769013/103671897-4d738780-4f5a-11eb-87c0-d78146cbebb2.png)  
 
-### `yarn test`
+## :fire: Como usar
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Pré-requisitos
 
-### `yarn build`
+  - É necessario possuir o Node.js instalado
+  - É preciso ter um gerenciador de pacotes instalado ou NPM ou Yarn
+ 
+### Passo a passo
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Fazer o clone deste repositorio :
+````
+$ git clone https://github.com/Aline595/Discord.git
+````
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Adicionar as dependências:
+````
+$ yarn install
+````
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Iniciar aplicação:
+````
+$ yarn start
+````
 
-### `yarn eject`
+4. Abrir no navegador que preferir:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+ http://localhost:3000  
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+OBS: A página sempre fará reload quando atualizado os arquivos.<br />
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
